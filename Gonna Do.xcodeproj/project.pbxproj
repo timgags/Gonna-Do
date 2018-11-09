@@ -54,8 +54,8 @@
 		36467112219619EF00A196B4 /* Gonna Do */ = {
 			isa = PBXGroup;
 			children = (
-				36467113219619EF00A196B4 /* AppDelegate.swift */,
 				36467115219619EF00A196B4 /* ToDoListViewController.swift */,
+				36467113219619EF00A196B4 /* AppDelegate.swift */,
 				36467117219619EF00A196B4 /* Main.storyboard */,
 				3646711A219619F100A196B4 /* Assets.xcassets */,
 				3646711C219619F100A196B4 /* LaunchScreen.storyboard */,
